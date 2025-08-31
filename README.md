@@ -1,7 +1,12 @@
-# Web Demo — Todo
+# Tiny CLI Toolkit
 
-A minimal HTML/JS todo list demo.
-Open `index.html` in your browser
+A small Python CLI examples pack.  
+Commands: file rename, word count.
+
+## Usage
+```bash
+python src/main.py --help
+```
 
 ---
-Last updated: 2025-08-29T17:19:31.052474Z
+Last updated: 2025-08-31T12:24:49.890492Z
